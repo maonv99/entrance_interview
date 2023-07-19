@@ -1,5 +1,5 @@
 # Image App
-<img src="https://user-images.githubusercontent.com/73025936/212476073-719994d5-7bf6-4beb-b109-e3923203bbb1.png" width="200" height="200" />
+
 ![image](https://user-images.githubusercontent.com/73025936/212476073-719994d5-7bf6-4beb-b109-e3923203bbb1.png) { width=50% }
 ![image](https://user-images.githubusercontent.com/73025936/212476080-31725c08-3494-4c38-8c16-251b3f1178f9.png)
 ![image](https://user-images.githubusercontent.com/73025936/212476084-f7c034b6-74f8-4d62-a320-6d4703b6b911.png)
